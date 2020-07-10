@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 - - -
-My text
+Bait, that's some bait right there
 Use the left arrow to go back!
